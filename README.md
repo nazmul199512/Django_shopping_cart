@@ -23,7 +23,7 @@ python manage.py runserver
 ```
 
 ## Database:
-*Local : Sqlite
+* Local : Sqlite
 
 
 
